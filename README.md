@@ -7,13 +7,13 @@ Paleocons.com is a fork of the Reddit open source project with
   <li>Milk</li>
 </ul>
 
-###Short-Term Goals
+##Short-Term Goals
 
 <ul>
   <li>Distinct, modernized styling and interface</li>
 </ul>  
 
-###Mid-Long-Term Goals
+##Mid-Long-Term Goals
 <ul>
   <li>Patch Reddit security vulnerabilities</li>
   <li>Implement Reddit bug fixex</li>
