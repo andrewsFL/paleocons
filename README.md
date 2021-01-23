@@ -4,7 +4,6 @@ Paleocons.com is a fork of the Reddit open source project with
 <ul>
   <li>Distinct branding</li>
   <li>Give award function disabled</li>
-  <li>Milk</li>
 </ul>
 
 <b>Short-Term Goals</b>
@@ -16,5 +15,5 @@ Paleocons.com is a fork of the Reddit open source project with
 <b>Mid-Long-Term Goals</b>
 <ul>
   <li>Patch Reddit security vulnerabilities</li>
-  <li>Implement Reddit bug fixex</li>
+  <li>Implement Reddit bug fixes</li>
 </ul>  
