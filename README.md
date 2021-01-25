@@ -3,6 +3,10 @@ Paleocons.com is a fork of the Reddit open source project.
 
 ## Install Guide
 
+NOTE: Before we start, make sure you have a 64-bit image of Ubuntu 14.04 installed onto your machine. Any other version of Ubuntu, or other distribution, will not work.
+
+In addition, this has been tested on the desktop image of Ubuntu 14.04. However, the server image should work as well.
+
 ### Step 1. Install Base
 
 Install paleocons.com auto-installer.
