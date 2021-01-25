@@ -21,6 +21,8 @@ You should see success message "Congratulations! reddit is now installed." Do no
 
     $ cd $REDDIT_HOME/src/reddit/r2/r2/templates
     $ wget https://raw.github.com/reddit-archive/reddit/master/r2/r2/templates/createsubreddit.html
+    $ cd $REDDIT_HOME/src/reddit/r2
+    $ make all
 
 Now navigate to reddit.local if you are on the local network, or your domain name if you have that setup. Go to YOURDOMAIN.TLD/subreddits/create.
 
