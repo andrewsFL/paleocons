@@ -62,7 +62,13 @@ Under the new section, add the following.
     
 You can add more or less admin accounts than this if you would like, replace YOURUSERNAME with your username.
 
-Then click Ctrl+X and then Y
+Then click Ctrl+X and then Y, then run from the current directory
+
+    $ make all
+    
+Once you log in to an admin account, there should be a button in the top-right corner of the website which states 'turn admin mode on.' Click this, then enter your password when prompted.
+
+Admin/moderator features are not intended for production use the same way the front-end for standard users is. However, everything is functional. What we mean is that many panels such as 'moderator tools' will have text which is white on a white background. Just highlight the text in such circumstances to work your way around this.
 
 ### Final Words
 
