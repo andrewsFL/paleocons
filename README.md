@@ -15,7 +15,11 @@ Install paleocons.com auto-installer.
     $ chmod +x install-reddit.sh
     $ sudo ./install-reddit.sh
 
-You should see success message "Congratulations! reddit is now installed." Do not proceed if the installation failed with an error.
+You should see success message "Congratulations! reddit is now installed." Do not proceed if the installation failed with an error. Now run this.
+
+    $ sudo rm -rf $REDDIT_HOME/src/reddit/r2/r2
+    $ cd $REDDIT_HOME/src/reddit/r2/r2
+    $ wget https://raw.github.com/paleocons/paleocons/master/r2/r2
 
 ### Step 2. Set up spaces/subreddits
 
