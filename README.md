@@ -11,7 +11,7 @@ In addition, this has been tested on the desktop image of Ubuntu 14.04. However,
 
 Install paleocons.com auto-installer.
 
-    $ wget https://raw.github.com/paleocons/paleocons/master/install-reddit.sh
+    $ wget https://raw.github.com/andrewsFL/paleocons/master/install-reddit.sh
     $ chmod +x install-reddit.sh
     $ sudo ./install-reddit.sh
 
@@ -19,7 +19,7 @@ You should see success message "Congratulations! reddit is now installed." Do no
 
     $ sudo rm -rf $REDDIT_HOME/src/reddit/r2/r2
     $ cd $REDDIT_HOME/src/reddit/r2
-    $ wget https://raw.github.com/paleocons/paleocons/master/r2/r2
+    $ wget https://raw.github.com/andrewsFL/paleocons/master/r2/r2
 
 ### Step 2. Set up spaces/subreddits
 
@@ -82,4 +82,4 @@ Admin/moderator features are not intended for production use the same way the fr
 
 ### Final Words
 
-Now that you've installed paleocons.com, if you've had any issues or want to learn how to complete certain tasks, visit our [FAQ](https://github.com/paleocons/paleocons/wiki/FAQ).
+Now that you've installed paleocons.com, if you've had any issues or want to learn how to complete certain tasks, visit our [FAQ](https://github.com/andrewsFL/paleocons/wiki/FAQ).
